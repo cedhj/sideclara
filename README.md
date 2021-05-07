@@ -1,0 +1,2 @@
+# sideclara
+declaraciones patrimoniales
